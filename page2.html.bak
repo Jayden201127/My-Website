@@ -2,7 +2,7 @@
 
 <head>
 <body bgColor=#f5a9b8>
-<a href="home.html" style="font-family:Comic sans ms;color:white;font-size:24px;text-align:center">Home</a>
+<a href="index.html" style="font-family:Comic sans ms;color:white;font-size:24px;text-align:center">Home</a>
 <h1 style="font-family:Comic sans ms;color:white;text-align:center">About... ME! :P</h1>
 
 <p style="font-family:comic sans ms;color:white;font-size:36px;text-align:center;">My name is Jayden!!!!!</p>
